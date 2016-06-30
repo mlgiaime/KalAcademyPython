@@ -12,7 +12,7 @@ line4 = (2 * (f) + 9 * (s) + u + 3 * (s) + u + 4 * (s) + 2 * (n) + 2 * (s) + n +
 line5 = (2 * (f) + 10 * (s) + 3 * (u) + 5 * (s) + 2 * (n) + 4 * (s) + 3 * (n))
 
 
-def doTheThing():
+def makeArt():
     print(line1)
     print(line2)
     print(line3)
@@ -21,4 +21,4 @@ def doTheThing():
     return
 
 
-doTheThing()
+makeArt()
